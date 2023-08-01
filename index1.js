@@ -44,5 +44,3 @@ console.log(nameMine, My_Age, Your_Adress);
 };
  console.log(bioPerson2);
 
-
- //JS Function
